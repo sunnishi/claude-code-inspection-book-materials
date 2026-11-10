@@ -3,6 +3,17 @@
 著者：西城戸 亮  
 副題：Python・OpenCVによる実装から、検証・現場導入・運用まで
 
+## 書籍（Amazon）
+
+この教材の本：[『Claude Codeでつくる 製造業の画像検査システム』](https://www.amazon.co.jp/dp/B0HKSG1LWF)（Kindle版・ペーパーバック、Kindle Unlimited対象）
+
+著者の他の本（製造業の技術書）：
+
+- [『現場で使える製造業の画像検査自動化 第2版』](https://www.amazon.co.jp/dp/B0HJYJNHS6)：Python／OpenCVで、照明・判定・検証まで
+- [『ラズパイとPythonでつくる 製造業の画像検査』](https://www.amazon.co.jp/dp/B0HKSGDZF2)：カメラ接続からOK／NG判定、記録・運用まで
+- [『図解で学ぶ PLCプログラミング入門』](https://www.amazon.co.jp/dp/B0HMPS4P4M)：ラダーの基本から搬送・位置決め・PID・通信まで
+- [『Pythonで始める 製造DXの実践』](https://www.amazon.co.jp/dp/B0HL5RK5H9)：現場データの収集・見える化から異常検知まで
+
 ## ダウンロード
 
 [v1.1.0 の教材ZIPをダウンロード](https://github.com/sunnishi/claude-code-inspection-book-materials/releases/download/v1.1.0/claude_code_inspection_code.zip)
